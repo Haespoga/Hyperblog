@@ -5,3 +5,5 @@ Tengo 27 años.
 Soy tecnologo graduado en el SENA.
 Soy ingeniero electrónico graduado en la universidad ECCI.
 Trabajo actualmente en la empresa Challenger como analista profesional.
+
+Hablaremos de su vida.
